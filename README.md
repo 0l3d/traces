@@ -17,7 +17,7 @@ gcc traces.c -o traces
 
 ## Features
 
-- Command support more than 200.
+- Syscall support more than 200.
 - Colored output.
 - Register details.
 
