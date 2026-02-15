@@ -5,7 +5,7 @@ Simple syscall tracer program.
 ## Usage
 
 ```bash
-git clone https://github.com/0l3d/traces.git
+git clone https://git.sr.ht/~oled/traces
 cd traces/
 gcc traces.c -o traces
 ./traces /bin/echo Hello, World!
