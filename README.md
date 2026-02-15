@@ -23,4 +23,4 @@ gcc traces.c -o traces
 
 # Author
 
-Created by **0l3d**
+Created by **oled**
